@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\bin\Debug\Entidades_AlejandroVenegas.dll
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\bin\Debug\Entidades_AlejandroVenegas.pdb
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\obj\Debug\Entidades_AlejandroVenegas.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\obj\Debug\Entidades_AlejandroVenegas.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\obj\Debug\Entidades_AlejandroVenegas.dll
+C:\Users\Ivan\Desktop\Proyecto_AlejandroVenegas\Entidades_AlejandroVenegas\obj\Debug\Entidades_AlejandroVenegas.pdb
